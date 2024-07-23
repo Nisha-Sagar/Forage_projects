@@ -1,11 +1,12 @@
 ## Task Two - Call Centre Trends Analysis
 
-![image](https://github.com/user-attachments/assets/5d432e99-5f69-4bac-90c2-238f56e9bcb1)
+![image](https://github.com/user-attachments/assets/77a4c290-eb4f-4d4e-aac1-d5840d86c7a4)
 
 
 ## Task Three: Customer Retention
 
 ![image](https://github.com/user-attachments/assets/f9047360-2026-4940-9419-9ffd1e9a63f4)
+
 
 ## Task Four: Diversity & Inclusion
 
