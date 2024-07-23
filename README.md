@@ -1,6 +1,6 @@
 ## Task Two - Call Centre Trends Analysis
 
-![image](https://github.com/user-attachments/assets/77a4c290-eb4f-4d4e-aac1-d5840d86c7a4)
+![image](https://github.com/user-attachments/assets/a8c287ca-1f9a-410a-89fa-46f670d5ac87)
 
 
 ## Task Three: Customer Retention
